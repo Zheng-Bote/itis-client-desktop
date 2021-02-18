@@ -1,6 +1,7 @@
 # itis-client-desktop
+## for MS Windows, Apple MacOS, Linux
 
-2021-02-11: moved to this new Github location
+**2021-02-11: moved to this new Github location**
 
 Die IT-IS Desktop ist umgezogen, eine Neu-Installation des Programms ist erfoderlich.
 
